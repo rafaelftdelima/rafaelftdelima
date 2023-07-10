@@ -1,3 +1,5 @@
+(CONTA INATIVA)
+
 Olá,
 
 Me chamo Rafael de Lima, e atualmente curso o 5º período letivo do **Bacharelado em Sistemas de Informação** na Universidade Federal do Estado do Rio de Janeiro, a UNIRIO. Possuo o diploma de **Técnico em Desenvolvimento de Sistemas** pelo Colégio Pedro II, onde iniciei minha jornada de formação em TI.
